@@ -9,8 +9,9 @@
     width: 15%;
 }
 
-#sottotitolo {
+.sottotitolo {
     color: lightgray;
+    font-weight: bold;
 }
 
 #booleaner {
@@ -44,4 +45,23 @@ th {
 
 .trblue {
     background-color: lightskyblue;
+}
+
+.image-container {
+    position: relative;
+}
+
+.testoimmagini {
+    position: absolute;
+    top: 5%;
+    font-weight: bold;
+    color: white;
+}
+
+ul {
+    padding-bottom: 2%;
+}
+
+#ultimotesto {
+    padding-bottom: 2%;
 }
