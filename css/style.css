@@ -25,3 +25,23 @@
 #evidenziatore {
     background-color: yellow;
 }
+
+table {
+    width: 100%;
+    border-spacing: 0px;
+    text-align: left;
+}
+
+th {
+    padding-right: 5%;
+    background-color: #4EA0FF;
+    color: white;
+}
+
+.thalf {
+    width: 25%;
+}
+
+.trblue {
+    background-color: lightskyblue;
+}
