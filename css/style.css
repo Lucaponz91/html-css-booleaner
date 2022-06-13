@@ -23,7 +23,7 @@
     font-size: small;
 }
 
-#evidenziatore {
+.evidenziatore {
     background-color: yellow;
 }
 
@@ -44,7 +44,7 @@ th {
 }
 
 .trblue {
-    background-color: lightskyblue;
+    background-color: #B1E5F2;
 }
 
 .image-container {
